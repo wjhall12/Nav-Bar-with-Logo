@@ -39,6 +39,8 @@ time {
 }
 
 nav {
+  position: sticky;
+  top: 0;
   border-top: 2px solid #c4c4c4;
   border-bottom: 2px solid #c4c4c4;
   /* create a top and bottom border for the navigation bar */
